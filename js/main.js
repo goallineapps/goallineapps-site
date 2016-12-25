@@ -1,6 +1,3 @@
----
----
-
 /**
  * main.js
  * http://www.codrops.com
@@ -143,7 +140,7 @@
 		
 		
 		if (prevPage.length > 0) {
-		var baseUrl = '{{ site.baseurl }}';
+		var baseUrl = '';
 		var removedBaseUrl = prevPage.replace(baseUrl, '');
 		var prevItem = removedBaseUrl.replace(/\//g, '');
 			console.log('prev page: '+prevItem);
@@ -422,11 +419,9 @@
 			scrollContainer.removeEventListener('scroll', noscroll);
 			
 			setCookie('appolo_prev_page', window.location.pathname, 1);
-			{% if site.baseurl != '' %}
-				window.location = '{{ site.baseurl }}';
-			{% else %}
+			
 				window.location = '/';
-			{% endif %}
+			
 			
 		});
 	}
