@@ -1,0 +1,1 @@
+My name is Benjamin Hysell, and I love to program and write about programming, project management, and people management.  GoalLineApps.com is a site allowing me to showcase the apps I've developed, and provide a platform for supporting those apps.

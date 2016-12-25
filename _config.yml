@@ -1,0 +1,20 @@
+# Site settings
+title: Goal Line Apps
+email: hello@goallineapps.com
+description: "Apps to help you reach your goals."
+info: "Edit this info in _config.yml"
+message: "Apps to help you reach your goals."
+keywords: "mac,apple,iphone,ios,osx,weight apps,apps,development"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://goallineapps.github.io" # the base hostname & protocol for your site
+twitter_username: goallineapps
+# Build settings
+author:
+    name: Benjamin Hysell
+    twitter: benhysell
+    url: http://www.benjaminhysell.com
+    header_bg: /images/profile-header.png
+    avatar: /images/avatar.jpg
+    email: ben.hysell@gmail.com
+facebook:
+    image: /images/delightfuldev-facebook-cover.png
