@@ -1,1 +1,1 @@
-&copy; 2014-2016 Edit this copyright in \_includes/copyright.md
+&copy; 2014-2017 Goal Line Apps
