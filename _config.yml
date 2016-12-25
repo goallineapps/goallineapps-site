@@ -1,6 +1,6 @@
 # Site settings
-title: CompanyName
-email: you@CompanyName.com
+title: Goal Line Apps
+email: hello@goallineapps.com
 description: "Edit description in _config.yml"
 info: "Edit this info in _config.yml"
 message: "Edit this message in _config.yml"
@@ -12,7 +12,7 @@ twitter_username: goallineapps
 author:
     name: Benjamin Hysell
     twitter: benhysell
-    url: http://www.yoururl.com
+    url: https://www.benjaminhysell.com
     header_bg: /images/profile-header.png
     avatar: /images/avatar.jpg
     email: you@CompanyName.com
