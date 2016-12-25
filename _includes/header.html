@@ -1,0 +1,13 @@
+<header class="bp-header cf">
+	{% if page.title == null %}
+		<span>{{ site.title }}</span>
+		<div id="site-info">{{ site.info }}</div>
+		<h1>{{ site.message }}</h1>
+		<nav>
+			<a class="bp-icon bp-icon-child" id="hire_me_button" data-info="Team"><span>Team</span></a>
+			<a href="{{ site.twitter_username | prepend: "https://twitter.com/" }}" class="bp-icon bp-icon-twitter" data-info="@{{ site.twitter_username }}" target="_blank"><span>@{{ site.twitter_username }}</span></a>
+			<a href="mailto:{{ site.email }}" class="icon icon-mail" data-info="send me e-mail"><span>Support</span></a>
+			<a href="mailto:{{ site.email }}" class="icon icon-lock" data-info="privacy policy"><span>Privacy Policy</span></a>
+		</nav>
+	{% endif %}
+</header>
