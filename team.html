@@ -1,0 +1,25 @@
+--- 
+layout: default 
+---
+<div class="row">
+    <H2>Team</H2>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <img alt="" src="{{ site.author.avatar | prepend: site.baseurl }}">
+    </div>
+    <div class="col-md-8">
+        <div class="row">
+            <h3>Benjamin Hysell</h3>
+            <h4>Developer</h4>
+        </div>
+        <div class="row">
+            {% markdown %}{% include profile_description.md %}{% endmarkdown %}
+        </div>
+        <div class="row">
+            <a class="btn btn-primary btn-twitter btn-sm" href="{{ site.author.url }}">
+                              More About Me
+                          </a>
+        </div>
+    </div>
+</div>
