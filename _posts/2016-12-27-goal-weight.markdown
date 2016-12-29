@@ -10,7 +10,7 @@ app_preview: "/images/deep/preview-deep.png"
 name: "Goal Weight"
 tagline: "Embed quotes on captivating images"
 ---
-<h2>Goal Weight <small>Build a New Weight Loss Habit</small> <img src="/images/goal-weight/Icon-1024x1024.png" width="50" height="50"/></h2>
+<h2>Goal Weight <small>Build a New Weight Loss Habit</small> <img src="/images/goal-weight/Icon-1024x1024.png" width="64" height="64"/></h2>
 <p class="lead">
 We all have our own weight loss journey. My journey included creating a new daily habit of stepping on the scale every morning and recording the results. Over time I looked forward to stepping on that scale and entering a new result into Goal Weight to see how far I've come, and to ensure I was still moving in the proper direction.
 </p>
@@ -105,7 +105,6 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 * Changing Units - Prefer measuring in kilograms, Goal Weight has you covered. Swap back and forth between lbs and kg.
 * Change Graph Colors - Each one of the graph's colors can be independently changed.
 * Save your measurements to Apple's Health app.
-
 <br/>
 <br/>
 <br/>

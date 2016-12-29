@@ -10,7 +10,7 @@ app_preview: "/images/deep/preview-deep.png"
 name: "Goal Length"
 tagline: "Embed quotes on captivating images"
 ---
-<h2>Goal Length <small>Capture All of Your Body Measurements</small> <img src="/images/goal-length/icon.png" width="50" height="50"/></h2>
+<h2>Goal Length <small>Capture All of Your Body Measurements</small> <img src="/images/goal-length/icon.png" width="64" height="64"/></h2>
 <p class="lead">
 Weight loss is difficult. If you are judging your success or failure only by the numbers on your scale you could be missing half the story.
 </p>
