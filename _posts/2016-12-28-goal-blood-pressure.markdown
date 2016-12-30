@@ -26,14 +26,14 @@ tagline: "Embed quotes on captivating images"
 {% verticalWhitespace%}
 {% section_title Trend Line %}
 <div class="row">
-<div class="col-sm-6"><a href="/images/goal-blood-pressure/trendLine.png"><img src="/images/goal-blood-pressure/trendLine.png" alt="trendline" width="338" height="600" /></a></div>
+<div class="col-sm-6"><a href="/images/goal-blood-pressure/trendLine.png"><img src="/images/goal-blood-pressure/trendLine.png" alt="trendline" width="288" height="558" /></a></div>
 <div class="col-sm-6">Inspired by <a href="https://www.fourmilab.ch/hackdiet/">The Hacker's Diet</a>, Goal Blood Pressure implements an <a href="http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html">Exponentially Smoothed Moving Average Trend Line.</a>  The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out measurement to measurement fluctuations.” </div>  
 </div>
 {% verticalWhitespace%}
 {% section_title Starting and Goal Blood Pressure %}
 <div class="row">
 <div class="col-sm-6">The dashed lines show you where you’ve been (starting blood pressure), and where you want to go (goal blood pressure).  Below, starting blood pressure and goal blood pressure are shown in their default colors, gray for starting blood pressure, green for goal blood pressure.</div>
-<div class="col-sm-6"><a href="/images/goal-blood-pressure/startingAndGoal.png"><img src="/images/goal-blood-pressure/startingAndGoal.png" alt="trendline" width="338" height="600" /></a></div>
+<div class="col-sm-6"><a href="/images/goal-blood-pressure/startingAndGoal.png"><img src="/images/goal-blood-pressure/startingAndGoal.png" alt="trendline" width="288" height="550" /></a></div>
 </div>
 {% verticalWhitespace%}
 {% section_title Protect Your Measurements %}
@@ -44,13 +44,13 @@ To combat this embarrassment I’ve added an extra layer of protection to Goal B
 </div>
 <br/>
 <div class="row">
-<div class="col-sm-4 col-sm-offset-2"><a href="/images/goal-blood-pressure/touchId.png"><img alt="Goal and Starting Weight Graph" src="/images/goal-blood-pressure/touchId.png" width="338" height="600" /></a></div>
+<div class="col-sm-4 col-sm-offset-2"><a href="/images/goal-blood-pressure/touchId.png"><img alt="Goal and Starting Weight Graph" src="/images/goal-blood-pressure/touchId.png" width="288" height="550" /></a></div>
 </div>
 {% verticalWhitespace%}
 {% section_title Sharing Progress %}
 <div class="row">
     <div class="col-sm-6">There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother. With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.</div>
-    <div class="col-sm-6"><a href="/images/goal-blood-pressure/sharing.png"><img alt="Goal and Starting Weight Graph" src="/images/goal-blood-pressure/sharing.png" width="338" height="600" /></a>
+    <div class="col-sm-6"><a href="/images/goal-blood-pressure/sharing.png"><img alt="Goal and Starting Weight Graph" src="/images/goal-blood-pressure/sharing.png" width="288" height="550" /></a>
 </div>
 </div>
 {% verticalWhitespace%}

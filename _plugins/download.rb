@@ -24,7 +24,7 @@ module Jekyll
             if @text
                 rendered = "<p style=\"text-align: center\"><a href=\""+@url+"\" class=\"centerbutton\">"+@text+"</a></p>"
             else
-                rendered = "<a href=\""+@url+"\"><img class=\"content__item-img-center\" src=\""+@img+"\"></a>"
+                rendered = "<a href=\""+@url+"\"><img width=\"288\" height=\"100\" src=\""+@img+"\"></a>"
             end
         else
             rendered = "<img class=\"content__item-img-center\" src=\""+@img+"\">"

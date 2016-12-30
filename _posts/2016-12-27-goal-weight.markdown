@@ -20,7 +20,7 @@ tagline: "Embed quotes on captivating images"
 <div class="row">
 <div class="col-sm-6">Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
 </div>
-<div class="col-sm-6"><a href="/images/goal-weight/Save-a-measurement-goal-weight.gif"><img src="/images/goal-weight/Save-a-measurement-goal-weight.gif" alt="Save a measurement goal weight" width="338" height="600" /></a>
+<div class="col-sm-6"><a href="/images/goal-weight/Save-a-measurement-goal-weight.gif"><img src="/images/goal-weight/Save-a-measurement-goal-weight.gif" alt="Save a measurement goal weight" width="288" height="550" /></a>
 </div>
 </div>
 {% verticalWhitespace%}
@@ -57,13 +57,13 @@ The dashed lines show you where you've been (starting weight), and where you wan
 
 Goal Weight makes it easy to import your old measurements into Goal Weight so you can keep all of your historical measurements in one place.  Click the '+' in the upper right hand corner of the 'History' screen, set the date of the measurement, and start importing your old measurements. 
 </div>
-    <div class="col-sm-6"><a href="/images/goal-weight/Add-Historical-Measurement.gif"><img src="/images/goal-weight/Add-Historical-Measurement.gif" alt="Add Historical Measurement" width="338" height="600" /></a>
+    <div class="col-sm-6"><a href="/images/goal-weight/Add-Historical-Measurement.gif"><img src="/images/goal-weight/Add-Historical-Measurement.gif" alt="Add Historical Measurement" width="288" height="550" /></a>
 </div>
 </div>
 {% verticalWhitespace%}
 {% section_title Protect Your Measurements %}
 <div class="row">
-    <div class="col-sm-6"><a href="/images/goal-weight/touchId.png"><img src="/images/goal-weight/touchId.png" alt="touchId" width="338" height="600" /></a></div>
+    <div class="col-sm-6"><a href="/images/goal-weight/touchId.png"><img src="/images/goal-weight/touchId.png" alt="touchId" width="288" height="550" /></a></div>
     <div class="col-sm-6">I hate handing my phone over to someone and they ask, "Hey what is this Goal Weight App?", they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
 
 To combat this embarrassment I've added an extra layer of protection to Goal Weight, under 'Settings' click on the 'Touch ID / Passcode' to protect Goal Weight from prying eyes.  Now anytime someone attempts to open Goal Weight they will be challenged with providing authentication via Touch ID or the phone's passcode.</div>
@@ -72,7 +72,7 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 {% section_title Sharing Progress %}
 <div class="row">
     <div class="col-sm-6">There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.</div>
-    <div class="col-sm-6"><a href="/images/goal-weight/sharing-image.png"><img src="/images/goal-weight/sharing-image.png" alt="sharing image" width="338" height="600" /></a></div>
+    <div class="col-sm-6"><a href="/images/goal-weight/sharing-image.png"><img src="/images/goal-weight/sharing-image.png" alt="sharing image" width="288" height="550" /></a></div>
 </div>
 {% verticalWhitespace%}
 {% section_title Settings %}
@@ -81,4 +81,5 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 * Change Graph Colors - Each one of the graph's colors can be independently changed.
 * Save your measurements to Apple's Health app.
 {% verticalWhitespace%}
+
 {% download app_store | https://itunes.apple.com/app/apple-store/id693001074?pt=223301&ct=Website&mt=8 %}
