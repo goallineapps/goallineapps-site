@@ -6,7 +6,7 @@ info: "Edit this info in _config.yml"
 message: "Apps to help you reach your goals."
 keywords: "mac,apple,iphone,ios,osx,weight apps,apps,development"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://goallineapps.github.io" # the base hostname & protocol for your site
+url: "http://goallineapps.com" # the base hostname & protocol for your site
 twitter_username: goallineapps
 # Build settings
 author:
